@@ -16,7 +16,9 @@ patch:
   engine/filters/+:
     - simplifier@emoji_suggestion
     - simplifier@symbol_support
-
+    # - lua_filter@single_char_filter
+    # - lua_filter@reverse_lookup_filter
+    
   # https://github.com/rime/rime-emoji
   emoji_suggestion:
     opencc_config: emoji.json

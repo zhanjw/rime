@@ -142,4 +142,5 @@ key_correction:
     - derive/([dtngkhrzcs])o(u|ng)$/$1o/  # zho => zhong|zhou
     - derive/ong$/on/                  # zhonguo => zhong guo
     - derive/ao$/oa/                   # hoa => hao
+    - derive/ua$/au/                   # shau => shua
     - derive/([iu])a(o|ng?)$/a$1$2/    # tain => tian

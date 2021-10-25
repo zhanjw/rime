@@ -52,7 +52,7 @@ engine:
   filters:
     - simplifier
     - uniquifier
-
+    
 speller:
   alphabet: zyxwvutsrqponmlkjihgfedcba
   delimiter: " '"

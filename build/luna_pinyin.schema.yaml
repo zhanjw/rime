@@ -6,11 +6,11 @@ __build_info:
     grammar: 0
     key_bindings: 1561218646
     key_bindings.custom: 0
-    luna_pinyin.custom: 1635166375
-    luna_pinyin.schema: 1635174952
+    luna_pinyin.custom: 1635179435
+    luna_pinyin.schema: 1635178913
     mysymbols: 1635146114
     mysymbols.custom: 0
-    pinyin: 1635175080
+    pinyin: 1635178514
     pinyin.custom: 0
     punctuation: 1561218646
     punctuation.custom: 0
@@ -409,6 +409,7 @@ speller:
     - "derive/([dtngkhrzcs])o(u|ng)$/$1o/"
     - "derive/ong$/on/"
     - "derive/ao$/oa/"
+    - "derive/ua$/au/"
     - "derive/([iu])a(o|ng?)$/a$1$2/"
     - "derive/^([abcdefghijklmnopqrstuvwxyz]).+$/$1/"
   alphabet: zyxwvutsrqponmlkjihgfedcba
