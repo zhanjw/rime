@@ -1,0 +1,53 @@
+# Rime dictionary
+# encoding: utf-8
+# Luna Pinyin Extended Dictionary(Basic)#  - 明月拼音擴充詞庫（基本）
+
+---
+name: luna_pinyin.extended
+version: "2021.02.07"
+sort: by_weight  #字典初始排序，可選original或by_weight
+use_preset_vocabulary: true
+#雙拼不支持 luna_pinyin.cn_en 詞庫，請用戶手動禁用
+
+import_tables:
+  - luna_pinyin
+#  - luna_pinyin.cn_en
+#  - luna_pinyin.1chengshixinxi
+#  - luna_pinyin.2zirankexue
+#  - luna_pinyin.3shehuikexue
+#  - luna_pinyin.4gongchengyingyong
+#  - luna_pinyin.5nonglinyuchu
+#  - luna_pinyin.6yixueyiyao
+#  - luna_pinyin.7dianziyouxi
+#  - luna_pinyin.8yishusheji
+#  - luna_pinyin.9shenghuobaike
+#  - luna_pinyin.10yundongxiuxian
+#  - luna_pinyin.11renwenkexue
+#  - luna_pinyin.12yulexiuxian
+
+  # clover
+  - dicts/clover/clover.base # 单字，四叶草
+  - dicts/clover/clover.phrase # 词组
+  # other
+  - dicts/other/zhwiki # 中文 wiki（较大）
+  - dicts/other/myemoji # emoji 颜文字
+  # thuocl
+  - dicts/thuocl/THUOCL_IT # 本词表包含了大量IT类词汇，THU Open Chinese Lexicon
+  - dicts/thuocl/THUOCL_caijing # 本词表包含了大量财经类词汇
+  - dicts/thuocl/THUOCL_chengyu # 本词表包含了大量成语词汇
+  - dicts/thuocl/THUOCL_diming # 地名
+  # extend
+  - dicts/extend/luna_pinyin.wenhua # 成语、诗词、文言
+  - dicts/extend/luna_pinyin.sogoupopular # 网络流行新词，搜狗
+  # - dicts/extend/luna_pinyin.chaizi # 简体拆字
+  - dicts/extend/luna_pinyin.cn_en # 中英混输
+  # - dicts/extend/luna_pinyin.hanyu # 汉语扩充
+  - dicts/extend/luna_pinyin.computer # 计算机
+  # - dicts/extend/luna_pinyin.zhejiang # 浙江信息
+  # - dicts/extend/luna_pinyin.yanwenzi # 颜文字
+  # - dicts/extend/luna_pinyin.game # 游戏，DND，MC，RA，魔兽争霸
+  - dicts/extend/luna_pinyin.changyong # 常用聊天用语
+  - dicts/extend/luna_pinyin.zhuanye # 专业术语，地理，法律，军事，天文，物理，数学
+  # - dicts/extend/luna_pinyin.extra_hanzi # 额外的字
+  # - dicts/extend/luna_pinyin.english # 英语
+  - dicts/extend/luna_pinyin.sgmain # @scomper 做的搜狗词汇汇总

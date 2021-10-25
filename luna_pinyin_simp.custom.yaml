@@ -1,0 +1,8 @@
+patch:
+  switches/+:
+    - name: show_emoji
+      reset: 1
+      states: [ "🈚️️\uFE0E", "🈶️️\uFE0F" ]
+    - name: show_symbol
+      reset: 1
+      states: [ "无符", "符" ]

@@ -1,0 +1,34 @@
+# Rime user dictionary
+#@/db_name	easy_en
+#@/db_type	userdb
+#@/rime_version	1.7.3
+#@/tick	44
+#@/user_id	659ce483-6874-4023-8d26-0ead44d09818
+ab 	ab	c=1 d=0.909373 t=44
+brew 	brew	c=9 d=8.07212 t=44
+cross 	cross	c=1 d=0.946485 t=44
+for 	for	c=3 d=2.66213 t=44
+gov 	gov	c=1 d=0.941765 t=44
+jason 	jason	c=1 d=0.97531 t=44
+max 	MAX	c=1 d=0.860708 t=44
+of 	of	c=4 d=3.51952 t=44
+our 	our	c=1 d=0.960789 t=44
+out 	out	c=1 d=0.941765 t=44
+per 	per	c=1 d=0.882497 t=44
+pip 	pip	c=1 d=0.923116 t=44
+proceeding 	proceeding	c=1 d=0.900325 t=44
+ra 	RA	c=1 d=0.878095 t=44
+royal 	royal	c=2 d=1.77473 t=44
+save 	save	c=1 d=0.980199 t=44
+selective 	selective	c=1 d=0.869358 t=44
+short 	short	c=1 d=0.918512 t=44
+state 	state	c=1 d=0.937067 t=44
+statistic 	statistic	c=1 d=0.810584 t=44
+torch 	torch	c=2 d=1.83946 t=44
+unbound 	unbound	c=1 d=0.831104 t=44
+usb 	USB	c=1 d=0.847894 t=44
+ush 	ush	c=1 d=0.88692 t=44
+v 	V	c=1 d=0.826959 t=44
+v 	v	c=3 d=2.64778 t=44
+voc 	voc	c=1 d=0.865022 t=44
+vs 	V.S.	c=3 d=2.97017 t=44
